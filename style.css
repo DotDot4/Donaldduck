@@ -17,6 +17,7 @@ main p{
     padding-left: 20%;
     padding-right: 20%;
     margin-top: 0;
+    margin-bottom: 7px;
     text-align: justify;
 }
 
@@ -29,4 +30,12 @@ main {
     margin: 20px 160px 0 170px;
     border-radius: 50px;
     box-shadow: 0 0 30px rgba(0,0,0,0.2);
+}
+
+#block{
+    margin: 0 149px 0 149px;
+    height: 200px;
+    color: pink;
+    background-color: pink;
+    border-radius: 10px;
 }
